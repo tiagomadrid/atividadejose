@@ -1,4 +1,4 @@
-name: madrid_automacao
+name: madridtentandodnv_automacao
 run-name: ${{ github.actor }} Pipeline deploy
 on:
   push:
